@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist-firefox/
+dist-chrome/
+dist-android/
+web-ext-artifacts/
+
+# Packaged / signed artifacts
+*.xpi
+*.zip
+
+# Secrets / local config
+.env
+*.local
+
+# Logs / test artifacts
+*.log
+playwright-report/
+test-results/
