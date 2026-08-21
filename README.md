@@ -42,6 +42,10 @@ Enhanced UX layer for DeepSeek chat (hidden prompts, tools, memory, document gen
   <text x="596" y="504" fill="#8b91a3" font-size="10">github.com/EdgeTypE/better-deepseek</text>
 </svg>
 
+<img width="1493" height="862" alt="Screenshot 2026-08-22 031402" src="https://github.com/user-attachments/assets/5d4f2408-9737-4d11-9423-d57df33ae913" />
+
+
+<img width="625" height="878" alt="Screenshot 2026-08-22 031323" src="https://github.com/user-attachments/assets/c0dfc47d-30f2-4ca6-b2f4-42a1d34da89c" />
 
 
 
@@ -78,3 +82,24 @@ Enhanced UX layer for DeepSeek chat (hidden prompts, tools, memory, document gen
 ## Share
 
 Send the `.xpi` file to anyone; they drag it into Firefox and click **Add**.
+
+## How to Use
+
+| Step | Action |
+|------|--------|
+| 1 | Click **"Open File"** and select a folder containing `.md` or `.txt` files |
+| 2 | Click any file in the list to select it |
+| 3 | Click **"View"** to open the file in the editor |
+| 4 | The file content is displayed and editable |
+| 5 | The AI **constantly reads** the content for context |
+
+---
+
+## Editing and Saving
+
+| Action | Result |
+|--------|--------|
+| Edit the text in the editor | Changes are saved in the extension's local storage |
+| Close the sidebar | Changes are retained in the extension |
+| Click the **"Download"** button | Saves the edited file to your computer |
+| Overwrite the original file | Replace the existing file on your computer |
