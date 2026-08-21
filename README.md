@@ -42,6 +42,9 @@ Enhanced UX layer for DeepSeek chat (hidden prompts, tools, memory, document gen
   <text x="596" y="504" fill="#8b91a3" font-size="10">github.com/EdgeTypE/better-deepseek</text>
 </svg>
 
+
+<img width="1027" height="759" alt="Screenshot 2026-08-21 143729" src="https://github.com/user-attachments/assets/a20017ec-dfe4-42c4-9a10-d1a6c210aef5" />
+
 ## Build
 
 1. `npm install`
