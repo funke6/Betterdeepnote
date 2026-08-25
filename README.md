@@ -1,4 +1,4 @@
-# better-deepseek (0.1.29)
+# better-deepnote (0.1.29)
 
 Enhanced UX layer for DeepSeek chat (hidden prompts, tools, memory, document generation, chat-history docking, and long-work packaging).
 
